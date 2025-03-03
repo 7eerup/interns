@@ -8,5 +8,8 @@ env.bak/
 venv.bak/
 __pycache__/
 
+# Python/
+nohup.out
+
 # Database
 database.db
