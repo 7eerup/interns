@@ -10,8 +10,3 @@ __pycache__/
 
 # Database
 database.db
-
-## nodejs
-node/**/node_modules
-node/**/package-lock.json
-node/conf/*
